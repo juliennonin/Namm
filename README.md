@@ -2,4 +2,4 @@
 
 vade-mecum et notes en tout genre
 ## sommaire sommaire
-* [LaTex](/LaTeX)
+* [LaTeX](/LaTeX)
